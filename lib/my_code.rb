@@ -1,5 +1,5 @@
 
-def map(s)
+def map(array)
   new = []
   i = 0
   while i < s.length
